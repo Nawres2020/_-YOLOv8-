@@ -1,21 +1,24 @@
-#YOLOv8 Object Detection: Humans & More 🚀
+# YOLOv8 Object Detection: Humans & More 🚀
 
 This repository showcases real-time object detection using YOLOv8 by Ultralytics. The model is capable of identifying humans and a wide range of objects from the COCO dataset in videos and images. Additionally, this project includes a comparative analysis of different YOLOv8 models to evaluate speed vs. accuracy.
 
 
 **🌟 Features**
+
 ✅ Human Detection – Identify people in various environments (office, streets, low-light scenarios).
 ✅ Multi-Object Detection – Recognizes objects like cars, laptops, and more using COCO IDs.
 ✅ YOLOv8 Model Comparison – Benchmarking nano, small, medium, large, and extra-large YOLOv8 models.
 ✅ Video Processing – Detect objects in real-time across different videos.
 
 **🔧 Installation**
+
 Install dependencies with:
 
 ![image](https://github.com/user-attachments/assets/5ed2d32b-6e23-4810-87f9-1b58c6c00ddd)
 
 
 **📊 Results**
+
 - Here are sample videos demonstrating YOLOv8 in action:
    **1/🏃 People Walking**
 📌 Video:
@@ -40,6 +43,8 @@ Install dependencies with:
 
 
 **Comparison: YOLOv8n vs YOLOv8s**
+
+
 📌 Video: https://github.com/user-attachments/assets/af969a51-96f7-4e02-bba8-6f58fcb13864
 
 🔹Side-by-side comparison of YOLOv8n (nano) and YOLOv8s (small) to visualize speed vs. accuracy trade-offs.
@@ -58,7 +63,11 @@ Install dependencies with:
 
 
 **Comparison: YOLOv8m vs YOLOv8l vs YOLOv8x**
+
+
 📌 Video: https://github.com/user-attachments/assets/09bf5bc6-c3f7-49df-b3db-03c8b1a21ff2
+
+
 🔹  benchmark test comparing YOLOv8m (medium), YOLOv8l (large), and YOLOv8x (extra-large) to analyze the impact of model size on detection accuracy and processing speed.
 🔹 Observations
 🟢 YOLOv8m (Medium)
